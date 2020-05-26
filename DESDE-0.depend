@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590520073 source:c:\users\usuario\desktop\desde-0\menupractica.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	"Practica1.h"
+
+1590520073 c:\users\usuario\desktop\desde-0\practica1.h
+
